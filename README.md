@@ -1,10 +1,10 @@
-# CyberPower ATS PDU44004 – Zabbix SNMP template
+# CyberPower ATS/PDU – Zabbix SNMP template
 
-Zabbix template for monitoring the **CyberPower PDU44004** (Switched ATS PDU, 200–240 V, 10 A) over SNMP.
+Zabbix template for monitoring the **CyberPower ATS PDU** (Switched ATS PDU, 200–240 V, 10 A) over SNMP.
 
 | | |
 |---|---|
-| Template name | `CyberPower-ATS-PDU-PDU44004` |
+| Template name | `CyberPower-ATS-PDU` |
 | Template version | `1.0` |
 | Zabbix version | `X.Y` (tested) |
 | SNMP | v1 / v2c / v3 |
