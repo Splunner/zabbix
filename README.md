@@ -6,7 +6,7 @@ Zabbix template for monitoring the **CyberPower ATS PDU** (Switched ATS PDU, 200
 |---|---|
 | Template name | `CyberPower-ATS-PDU` |
 | Template version | `1.0` |
-| Zabbix version | `X.Y` (tested) |
+| Zabbix version | `8.0.0` (tested) |
 | SNMP | v1 / v2c / v3 |
 | Items | `49` |
 | Triggers | `34` |
